@@ -12,17 +12,6 @@ Distribution chart of lesson plans across different educational stages and subje
   <img src="imgs/lesson plan distribution.png">
 </div>
 
-#### Length
-
-Average word count of lesson plans in English and Chinese:
-
-<div style="display: flex; flex-direction: column; align-items: center">
-  <img src="imgs/average words of en.png" width=80%>
-  <img src="imgs/average words of zh.png" width=80%>
-</div>
-
-</div>
-
 ### Lesson Plan Showcase
 
 <div style="text-align: center;">
